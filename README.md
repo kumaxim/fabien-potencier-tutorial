@@ -30,7 +30,7 @@ will slow you down. Just downgrade your PHP to 7.4 and start studying.
 ### Deploy
 - `git clone git@github.com:kumaxim/fabien-potencier-tutorial.git`
 - `cd fabien-potencier-tutorial`
-- `composer install`
+- `composer update`
 - `/usr/bin/php7.4 -S localhost:8080 -t %/your/full/path/to/folder/fabien-potencier-tutorial/web%`
 
 __Notice__: `web` at the end of path is mandatory
