@@ -36,7 +36,7 @@ will slow you down. Just downgrade your PHP to 7.4 and start studying.
 __Notice__: `web` at the end of path is mandatory
 
 
-## Usefully links:
+## Usefull links:
 Fabian's original tutorials:
 1. [fabien.potencier.org](http://fabien.potencier.org/) - Search all 12 parts by keywords `Create your own framework... on top of the Symfony2 Components`
 2. [2015 tutorial update in Symphony Docs][own-framework-updated]
